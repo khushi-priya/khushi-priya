@@ -72,7 +72,7 @@
 
 ###
 
-- 🔗 [AI SAAS](https://github.com/khushi-priya/trip-planner) - A full stack travel planning app with dynamic itinerary.
+- 🔗 [AI SAAS](https://github.com/khushi-priya/Ai-Saas) - A full stack travel planning app with dynamic itinerary.
 - 🔗 [Portfolio Website](https://github.com/khushi-priya/portfolio) - Personal portfolio showcasing my work and skills.
 
 
