@@ -66,6 +66,35 @@
 </div>
 
 
+###
+
+<h3 align="left">🚀 Projects</h3>
+
+###
+
+- 🔗 [AI SAAS](https://github.com/khushi-priya/trip-planner) - A full stack travel planning app with dynamic itinerary.
+- 🔗 [Portfolio Website](https://github.com/khushi-priya/portfolio) - Personal portfolio showcasing my work and skills.
+
+
+###
+
+<h3 align="left">📈 GitHub Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushi-priya&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-priya&theme=radical" alt="GitHub Streak" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-priya&layout=compact&theme=radical" height="150"/>
+</div>
+
+###
+
+
+
 
 
 
